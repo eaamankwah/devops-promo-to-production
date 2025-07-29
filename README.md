@@ -363,24 +363,37 @@ make submit-pr
 This project demonstrates proficiency in:
 
 ### DevOps Practices
+
  ✅ Infrastructure as Code (IaC)
+ 
  ✅ Continuous Integration/Continuous Deployment
+ 
  ✅ Automated Testing & Quality Gates
+ 
  ✅ Configuration Management
+ 
  ✅ Monitoring & Observability
 
 ### Cloud Technologies
  ✅ AWS Services Integration
+ 
  ✅ Serverless Architecture Patterns
+ 
  ✅ Content Delivery Networks
+ 
  ✅ Cloud Security Best Practices
+ 
  ✅ Cost Optimization Strategies
 
 ### Automation & Tooling
  ✅ Pipeline Automation with CircleCI
+ 
  ✅ Infrastructure Provisioning
+ 
  ✅ Deployment Automation
+ 
  ✅ Testing Automation
+ 
  ✅ Monitoring Automation
 
 ---
